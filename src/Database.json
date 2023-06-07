@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": 0,
+      "name": "User 1",
+      "email": "User1@gmail.com"
+    }
+  ],
+
+  "posts": [
+    {
+      "id": "0",
+      "userId": "0",
+      "description": "this is the first post",
+      "title": "list post"
+    },
+  
+    {
+      "id": "1",
+      "userId": "0",
+      "description": "this is the second post",
+      "title": "2nd post"
+    }
+  ]
+}
